@@ -1,4 +1,4 @@
-CONTIKI_PROJECT = senior-project
+CONTIKI_PROJECT = salmon-spotter
 all: $(CONTIKI_PROJECT)
 
 DRIVER_DIR = drivers/
