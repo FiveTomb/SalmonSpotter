@@ -1,7 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "zolertia-remote-revb")(type "KiCad")(uri "${KIPRJMOD}/zolertia-remote-revb.kicad_sym")(options "")(descr ""))
-  (lib (name "sparkfun-lsm6dso")(type "KiCad")(uri "${KIPRJMOD}/sparkfun-lsm6dso.kicad_sym")(options "")(descr ""))
-  (lib (name "atlas-scientific-gravity-ph-sensor")(type "KiCad")(uri "${KIPRJMOD}/atlas-scientific-gravity-ph-sensor.kicad_sym")(options "")(descr ""))
-  (lib (name "cqrobot-tds-sensor")(type "KiCad")(uri "${KIPRJMOD}/cqrobot-tds-sensor.kicad_sym")(options "")(descr ""))
-)
