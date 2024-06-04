@@ -51,8 +51,7 @@ The device gathers data to help scientists understand why salmon choose specific
 
 ### Software
 - **Operating System:** Contiki-NG (open source with extensive documentation)
-
-*Diagrams to be added.*
+- **Schematic Diagrams:** Included in the KiCad project folder in the repository.
 
 ## Contributors
 - Alexander Regueiro
